@@ -1,10 +1,10 @@
-# Code Chaos Creations!
+# Code Chaos Creations! :atom:
 
 
 ## Proyecto biblioteca
 
-[Documentation](https://github.com/Code-Chaos-Creations/proyecto-biblioteca)
+:notebook_with_decorative_cover: [Documentation](https://github.com/Code-Chaos-Creations/proyecto-biblioteca)
 
-[Frontend](https://github.com/Code-Chaos-Creations/frontend-biblioteca)
+:house_with_garden: [Frontend](https://github.com/Code-Chaos-Creations/frontend-biblioteca)
 
-[Backend](https://github.com/Code-Chaos-Creations/backend-biblioteca)
+:electric_plug: [Backend](https://github.com/Code-Chaos-Creations/backend-biblioteca)
